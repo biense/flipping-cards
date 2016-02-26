@@ -1,69 +1,69 @@
 - name: aron
   picture: aron.jpeg
-  url:
+  url: http://arontseggai.com
 - name: blane
   picture: blane.jpg
   url: http://lewagon.com
 - name: carolien
-  picture: carolien.jpeg
+  picture: carolien.JPG
   url:
 - name: daniel
-  picture: daniel.jpeg
-  url:
+  picture: daniel.jpg
+  url: http://danielgordon1.github.io/CVDanielGordon/
 - name: eden
   picture: eden.jpeg
   url:
 - name: emiel
   picture: emiel.JPG
-  url:
+  url: http://emielhagen.github.io/boilerplate-portfolio/
 - name: iris
-  picture: iris.jpeg
-  url:
+  picture: iris.JPG
+  url: http://ickramer.github.io/resume/
 - name: jojanneke
-  picture: jojanneke.jpeg
-  url:
+  picture: Jojanneke.JPG
+  url: http://jojanneketamis.github.io/resume/
 - name: lars
-  picture: lars.jpeg
-  url:
+  picture: lars.JPG
+  url: http://batch20.datene.nl/
 - name: lena
-  picture: lena.jpeg
+  picture: lena.jpg
   url:
 - name: lennard
   picture: lennard.JPG
-  url: http://biense.github.io/portfolio/
+  url:
 - name: martin
   picture: martin.jpg
   url:  http://www.martinbalk.com
 - name: matthijs
-  picture: matthijs.jpeg
-  url:
+  picture: matthijs.jpg
+  url: http://matonias.github.io/matthijs-website
 - name: melchior
-  picture: melchior.png
-  url:
+  picture: melchior.JPG
+  url: http://futuresbssa.github.io/Portfolio/
 - name: michele
-  picture: michele.jpeg
+  picture: michele.jpg
   url:
 - name: paula
-  picture: paula.jpeg
-  url:
+  picture: paula.jpg
+  url: http://annepaulinebrouwer.github.io/profile-page/
 - name: quoc
   picture: quoc.jpeg
-  url:
+  url: http://stub4ever.github.io/stubokidemo/
 - name: rianne
   picture: rianne.jpeg
-  url:
+  url: http://riannew.github.io/portfolio_website/
 - name: roy
-  picture: roy.jpeg
-  url:
+  picture: roy.JPG
+  url: http://royvanarkel.github.io/CV
 - name: schelte
   picture: schelte.jpeg
   url:
 - name: tim
   picture: tim.jpeg
-  url:
+  url: http://timthuis.github.io/cv_timthuis_2016/
 - name: tom
   picture: tom.JPG
   url: http://tomstem.github.io/onlineportfolio
-- name: wouter
-  picture: wouter.jpeg
-  url:
+- name: WOUTER
+  picture: wouter.jpg
+  url: https://waata.github.io
